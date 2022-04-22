@@ -1,0 +1,30 @@
+{
+  "name": "demo1",
+  "version": "1.0.0",
+  "description": "",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --inspect index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loipham21101998/nodejs_tutorial.git"
+  },
+  "keywords": [
+    "nodejs",
+    "tutorial"
+  ],
+  "author": "LoiPham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loipham21101998/nodejs_tutorial/issues"
+  },
+  "homepage": "https://github.com/loipham21101998/nodejs_tutorial#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
